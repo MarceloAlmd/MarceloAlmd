@@ -5,8 +5,9 @@ I'm a Web Developer. And, I'm Studying web Development at [rocketseat](https://w
 
 #### Current Stack
 - ⚡️ Main Language: `Javascript`
-- 🎉 Front-End: `ReactJS`
-- 🎉 Back-End: `NodeJS`
+- ⚛ Front-End: `ReactJS`
+- ⚛ Mobile: `React Native`
+- 🗃 Back-End: `NodeJS`
 - 🗂 Version Code Control: `Git` & `GitHub`
 - 🛠 Tool: `VsCode` 
 
