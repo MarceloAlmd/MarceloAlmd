@@ -1,7 +1,7 @@
 ### Hi there, I'm Marcelo Almeida 👋
 
 #### About
-I'm a Web Developer. And, I'm Studying web Development at [rocketseat](https://www.rocketseat.com.br/)
+I'm a FullStack Developer. And, I'm Studying Node.Js, React.Js And React Native at [rocketseat](https://www.rocketseat.com.br/)
 
 #### Current Stack
 - ⚡️ Main Language: `Javascript`
