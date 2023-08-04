@@ -6,6 +6,7 @@ I'm a FullStack Developer. And, I'm Studying Node.Js, React.Js And React Native 
 #### Current Stack
 - ⚡️ Main Language: `Javascript`
 - ⚛ Front-End: `ReactJS`
+- 💾Back-End: `NodeJs`
 - ⚛ Mobile: `React Native`
 - 🗃 Back-End: `NodeJS`
 - 🗂 Version Code Control: `Git` & `GitHub`
