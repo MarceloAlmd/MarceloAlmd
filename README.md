@@ -13,7 +13,7 @@ I'm a FullStack Developer. And, I'm Studying Node.Js, React.Js And React Native 
 
 #### Contacts 
 - 📧 Email: marcelo3x4@hotmail.com
-- 🌎 LinkedIn: https://www.linkedin.com/in/marcelo-almeida-092686232/
+- 🌎 LinkedIn: https://www.linkedin.com/in/marcelo-magalh%C3%A3es-092686232
 
 
 
