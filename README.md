@@ -4,9 +4,8 @@
 I'm a FullStack Developer. And, I'm Studying Node.Js, React.Js And React Native at [rocketseat](https://www.rocketseat.com.br/)
 
 #### Current Stack
-- ⚡️ Main Language: `Javascript`
+- ⚡️ Main Language: `TypeScript`
 - ⚛ Front-End: `ReactJS`
-- 💾Back-End: `NodeJs`
 - ⚛ Mobile: `React Native`
 - 🗃 Back-End: `NodeJS`
 - 🗂 Version Code Control: `Git` & `GitHub`
