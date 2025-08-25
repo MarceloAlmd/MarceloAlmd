@@ -1,7 +1,7 @@
 ### Hi there, I'm Marcelo Magalhães 👋
 
 #### About
-I'm a FullStack Developer. And, I'm Studying Node.Js, React.Js And React Native at [rocketseat](https://www.rocketseat.com.br/)
+I am a FullStack Developer focused on Node.JS, React.JS and React Native.
 
 #### Current Stack
 - ⚡️ Main Language: `TypeScript`
